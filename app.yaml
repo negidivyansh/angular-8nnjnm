@@ -3,7 +3,7 @@ api_version: 1
 threadsafe: true
 handlers:
 - url: /
-  static_files: src/index.html
-  upload: src/index.html
+  static_files: 8nnjnm/index.html
+  upload: 8nnjnm/index.html
 - url: /
-  static_dir: src
+  static_dir: 8nnjnm
